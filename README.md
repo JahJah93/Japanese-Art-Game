@@ -1,5 +1,5 @@
 # Japanese-Art-Game
-Game
+This game is using the Phaser framework.........
 
 This is my first repository and I wanted to get some help on a game I am working on. 
 It's a flappy bird clone and the prototype is done, but the main part I need help with is the art side of the game (the background mainly). 
